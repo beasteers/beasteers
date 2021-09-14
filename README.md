@@ -1,6 +1,7 @@
 ### Hellooooo 👋💁🏼‍♀️🌈✨ 
 
-<img src="https://raw.githubusercontent.com/beasteers/beasteers/main/Amphibia%20End%20Credits%20-%20textless.webp" width="100%">
+<!-- <img src="https://raw.githubusercontent.com/beasteers/beasteers/main/Amphibia%20End%20Credits%20-%20textless.webp" width="100%"> -->
+<img src="https://raw.githubusercontent.com/beasteers/beasteers/main/Amphibia%20End%20Credits%20full.webp" width="100%">
 
 
 - 🔭 I’m currently working on:
