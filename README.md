@@ -3,7 +3,7 @@
 <!-- <img src="https://raw.githubusercontent.com/beasteers/beasteers/main/Amphibia%20End%20Credits%20-%20textless.webp" width="100%"> -->
 <img src="https://raw.githubusercontent.com/beasteers/beasteers/main/Amphibia%20End%20Credits%20full.webp" width="100%">
 
-
+<!--
 - 🔭 I’m currently working on:
   - Sounds of New York City
   - Self-supervised learning for traffic analysis
@@ -22,15 +22,6 @@
 - 📚 Favorite book rn: Crier's War
 - 😄 Pronouns: she/her
 
-<!--
-- 👯 I’m currently watching ...
-- 👯 I’m currently reading ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- ⚡ Fun fact: ...
--->
-<!--
 **beasteers/beasteers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
